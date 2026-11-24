@@ -1,0 +1,13 @@
+{
+  "name": "bihar-eastern-india-tourism",
+  "version": "1.0.0",
+  "description": "Frontend portal for Travel & Tourism of Eastern India and Bihar - Safari & macOS Optimized",
+  "scripts": {
+    "start": "python3 server.py",
+    "safari": "open -a Safari index.html",
+    "serve": "python3 server.py"
+  },
+  "keywords": ["travel", "bihar", "rajgir", "tourism", "eastern-india", "safari", "html", "css", "javascript"],
+  "author": "",
+  "license": "ISC"
+}
